@@ -1,0 +1,34 @@
+.left-column{
+  Width: 250px;
+  padding-left: 30px;
+  padding-top: 30PX;
+
+
+}
+
+.leftsidebar{
+  float:left;
+  width: 280px;
+  background-color: #C0C0C0;
+  margin-left: 20px;
+  margin-top: 20px;
+  Height: 3000px
+}
+
+#banner{
+  margin-top: 30px;
+
+}
+
+.row{
+  position:absolute; right:-1em;
+  top:10%;
+   margin-top:-2.4em;
+    width:38%;
+    min-width:25em;
+    font-size:95%;
+
+}
+.float{
+  float: right;
+}
